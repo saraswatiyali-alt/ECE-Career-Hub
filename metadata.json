@@ -1,0 +1,6 @@
+{
+  "name": "ECE Career Hub",
+  "description": "Discover your future in ECE with standardized career domains, step-by-step learning roadmaps, skills matrix, projects, hiring companies, free courses, and completion certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
